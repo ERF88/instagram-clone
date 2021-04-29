@@ -1,1 +1,1 @@
-# Recriando a interface do instagram com html5, css3 utilizando flexbox.
+# Recriando a interface do instagram com html5 e css3 utilizando flexbox.
